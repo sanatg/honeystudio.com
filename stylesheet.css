@@ -1,0 +1,65 @@
+.origamiheading {
+    color: white;
+    text-align: center;
+    font-family: Verdana, arial, sans-serif;
+}
+.colori{
+    background-color: #000000;
+    opacity: 0.9;
+    padding-top:10px;
+    padding-bottom:10px;
+     }
+.coloreddiv {
+    background-color: #7df9ff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.site2 {
+    padding-left: 50px;
+}
+.image1 {
+    display: flex;
+    border-radius: 25px;
+    border:  2px solid black;
+    justify-content: space-between;
+}
+.siteimage{
+    background-image: url("origami.jpg");
+    height: 500px;
+
+  }
+
+.instructionscolor{
+    opacity: 0.7;
+    background-color: black;
+    padding-top: 2px;
+
+}
+.colortext{
+    color: white;
+    text-align: center;
+    font-size: 30px;  
+}
+.colortext2{
+    color: white;
+    text-align: center;
+    font-size: 20px; 
+}
+.origami{
+    display: flex;
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 30px;
+    margin: 25px;
+}
+body{
+    background-color: whitesmoke;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
